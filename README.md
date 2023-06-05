@@ -17,6 +17,7 @@
   </a>
 </div>
 
+<div>
 ### About me
 - 🌱 I’m currently learning and improve my skills
     [LeetCode](https://leetcode.com/KhachKara/), 
@@ -25,7 +26,7 @@
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io)
 - 📄 Know about my experiences 
     [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
-- 📋 CV 
+- 📋 My CV's 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG)
 - 📧📞 Reach me by 
@@ -33,7 +34,7 @@
     [Main email](mailto:khachatur2000@mail.ru),
     [Gmail](khachkara@gmail.com)
 - 🌍 I speak Russian, English, Armenian
-
+</div>
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
