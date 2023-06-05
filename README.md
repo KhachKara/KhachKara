@@ -1,6 +1,7 @@
-### Hi there, I'm Khachatur 👋
 <div id="header"
-<h3>I am a data scientist 😄</h3>
+    <h1>Hi there, I'm Khachatur 👋</hl>
+    <h3>I am a data scientist 😄</h3>
+</div>
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
