@@ -2,7 +2,6 @@
     <h3>Hi there, I'm Khachatur 👋</h3>
     <h1>I am a data scientist 😄</h1>
 </div>
----
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,14 +16,21 @@
   </a>
 </div>
 
+### My projects
+- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+
 ### About me
 - 🌱 I’m currently learning and improve my skills
+    [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян),
     [LeetCode](https://leetcode.com/KhachKara/), 
     [HackerRank](https://www.hackerrank.com/khachkara),
+    [Rosalind](https://rosalind.info/users/Khachkara/),
     [Kaggle](https://www.kaggle.com)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io)
 - 📄 Know about my experiences 
-    [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+    
 - 📋 My CV's 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG)
