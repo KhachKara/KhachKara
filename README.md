@@ -31,8 +31,8 @@
 - 📧📞 Reach me by 
     [+79773895899](),
     [+79265692452](),
-    [Main email](mailto:khachatur2000@mail.ru),
-    [Gmail](mailto:khachkara@gmail.com)
+    [khachatur2000@mail.ru](),
+    [khachkara@gmail.com]()
 - 🌍 I speak Russian, English, Armenian
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
