@@ -29,7 +29,8 @@
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG)
 - 📧📞 Reach me by 
-    [Tel.](+79773895899),
+    [+79773895899](),
+    [+79265692452](),
     [Main email](mailto:khachatur2000@mail.ru),
     [Gmail](mailto:khachkara@gmail.com)
 - 🌍 I speak Russian, English, Armenian
