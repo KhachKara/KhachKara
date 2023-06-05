@@ -29,9 +29,9 @@
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG)
 - 📧📞 Reach me by 
-    [Tel.](+79773895899),
+    [Tel.](tel:+79773895899),
     [Main email](mailto:khachatur2000@mail.ru),
-    [Gmail](khachkara@gmail.com)
+    [Gmail](mailto:khachkara@gmail.com)
 - 🌍 I speak Russian, English, Armenian
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
