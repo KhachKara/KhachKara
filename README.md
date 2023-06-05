@@ -18,18 +18,18 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences 
-    [LinkedIn](https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/), 
+- 🌱 I’m currently learning and improve my skills
     [LeetCode](https://leetcode.com/KhachKara/), 
-    [HackerRank](https://www.hackerrank.com/khachkara)
-- CV 
+    [HackerRank](https://www.hackerrank.com/khachkara),
+    [Kaggle](https://www.kaggle.com)
+- 📝 I regularly update my own web-site [Web](https://khachkara.github.io)
+- 📄 Know about my experiences 
+    [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+- 📋 CV 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG)
-- 📫 Reach me by 
-    [Telegram](https://t.me/khachkara),
-    [VK](https://vk.com/id39817202/im),
+- 📧📞 Reach me by 
+    [Tel.](+79773895899),
     [Main email](mailto:khachatur2000@mail.ru),
     [Gmail](khachkara@gmail.com)
 - 🌍 I speak Russian, English, Armenian
