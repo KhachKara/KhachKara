@@ -2,7 +2,7 @@
     <h3>Hi there, I'm Khachatur 👋</h3>
     <h1>I am a data scientist 😄</h1>
 </div>
-
+---
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,7 +28,7 @@
 - 📋 My CV's 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG)
-- 📧📞 Reach me by 
+- 📞📧 Reach me by 
     [+79773895899](),
     [+79265692452](),
     [khachatur2000@mail.ru](),
