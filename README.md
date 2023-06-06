@@ -14,6 +14,11 @@
   <a href="https://t.me/khachkara">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+
+  <a href="https://web.whatsapp.com//khachkara">
+    <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+
 </div>
 
 ### My projects
