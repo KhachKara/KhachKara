@@ -17,9 +17,9 @@
 </div>
 
 ### My projects
-- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya){:target="_blank"}
-- [DS_Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master){:target="_blank"}
-- [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners){:target="_blank"}
+- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya?target=_blank)
+- [DS_Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
+- [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 
 ### Languages and tools
 
@@ -49,16 +49,16 @@
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" width="40" height="40"/>&nbsp;
 ### About me
 - 🌱 I’m currently learning and improve my skills
-    [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян){:target="_blank"},
-    [LeetCode](https://leetcode.com/KhachKara/){:target="_blank"}, 
-    [HackerRank](https://www.hackerrank.com/khachkara){:target="_blank"},
-    [Rosalind](https://rosalind.info/users/Khachkara/){:target="_blank"},
-    [Kaggle](https://www.kaggle.com){:target="_blank"}
-- 📝 I regularly update my own web-site [Web](https://khachkara.github.io){:target="_blank"}
+    [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян?target=_blank),
+    [LeetCode](https://leetcode.com/KhachKara/?target=_blank), 
+    [HackerRank](https://www.hackerrank.com/khachkara?target=_blank),
+    [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
+    [Kaggle](https://www.kaggle.com?target=_blank)
+- 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target=_blank)
 - 📄 Know about my experiences 
     
 - 📋 My CV's 
-    [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1){:target="_blank"},
+    [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1?target=_blank),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG?target=_blank)
 - 📞📧 Reach me by 
     [+79773895899](),
