@@ -19,7 +19,7 @@
 ### My projects
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
 - [DS_Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master)
-- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+- [Tinkoff](https://github.com/KhachKara/Tink_Data_Analyst_For_Begginers)
 
 ### Languages and tools
 
