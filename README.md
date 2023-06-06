@@ -18,7 +18,7 @@
 
 ### My projects
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
-- [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
+- [DS_Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master)
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya)
 
 ### Languages and tools
