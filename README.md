@@ -27,8 +27,8 @@
 - [Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 - [Tinkoff Data Analytics in Industry 2023](https://github.com/KhachKara/Tink_Data_Analytics_in_Industry_2023?target=_blank)
-### Languages and tools
 
+### Languages and tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;
@@ -53,6 +53,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" width="40" height="40"/>&nbsp;
+
 ### About me
 - 🌱 I’m currently learning and improve my skills
     [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян?target=_blank),
@@ -61,7 +62,7 @@
     [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
     [Kaggle](https://www.kaggle.com?target=_blank),
     [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
-    [DataCamp](https://app.datacamp.com/profile/khachatur2000/?target=_blank)
+    [DataCamp]https://app.datacamp.com/profile/khachatur2000/target=_blank)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target=_blank)
 - 📄 Know about my experiences 
     
