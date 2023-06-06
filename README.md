@@ -56,7 +56,7 @@
 ### About me
 - 🌱 I’m currently learning and improve my skills
     [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян?target=_blank),
-    [LeetCode](https://leetcode.com/KhachKara/?target=_blank), 
+    [LeetCode](https://github.com/KhachKara/LeetCode/tree/master/my-folder/problems?target=_blank), 
     [HackerRank](https://www.hackerrank.com/khachkara?target=_blank),
     [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
     [Kaggle](https://www.kaggle.com?target=_blank)
