@@ -63,7 +63,7 @@
     [Kaggle](https://www.kaggle.com?target=_blank),
     [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
     [DataCamp](https://app.datacamp.com/profile/khachatur2000/target=_blank)
-- 📝 I regularly update my own web-site [Web](https://khachkara.github.io?:target="_blank")
+- 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target="_blank")
 - 📄 Know about my experiences 
 - 📋 My CV's 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1?target=_blank),
