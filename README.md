@@ -59,7 +59,7 @@
     
 - 📋 My CV's 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1){:target="_blank"},
-    [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG){:target="_blank"}
+    [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG {:target="_blank"})
 - 📞📧 Reach me by 
     [+79773895899](),
     [+79265692452](),
