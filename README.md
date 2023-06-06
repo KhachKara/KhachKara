@@ -18,8 +18,9 @@
   <a href="https://web.whatsapp.com//khachkara">
     <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-
 </div>
+
+<img src="https://i.imgur.com/oEdaCVO.jpeg" alt="Looking for a job"/>
 
 ### My projects
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya?target=_blank)
