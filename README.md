@@ -24,7 +24,7 @@
 
 ### My projects
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya?target=_blank)
-- [DS_Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
+- [Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 - [Tinkoff Data Analytics in Industry 2023](https://github.com/KhachKara/Tink_Data_Analytics_in_Industry_2023?target=_blank)
 ### Languages and tools
