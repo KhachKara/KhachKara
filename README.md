@@ -46,7 +46,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" width="40" height="40"/>&nbsp;
 ### About me
 - 🌱 I’m currently learning and improve my skills
     [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян),
