@@ -59,7 +59,9 @@
     [LeetCode](https://github.com/KhachKara/LeetCode/tree/master/my-folder/problems?target=_blank), 
     [HackerRank](https://www.hackerrank.com/khachkara?target=_blank),
     [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
-    [Kaggle](https://www.kaggle.com?target=_blank)
+    [Kaggle](https://www.kaggle.com?target=_blank),
+    [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
+    [DataCamp](https://app.datacamp.com/profile/khachatur2000/?target=_blank)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target=_blank)
 - 📄 Know about my experiences 
     
