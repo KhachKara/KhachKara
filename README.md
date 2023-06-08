@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h3>Hi there, I'm Khachatur 👋</h3>
-    <h1>I am a data scientist 😄</h1>
+    <h3>Hi there, I'm Khachatur</h3>
+    <h1>I am a data scientist</h1>
 </div>
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/">
