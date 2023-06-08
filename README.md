@@ -89,12 +89,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
 
-<div style="display: flex">
-    <!-- Первое изображение -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default" alt="Stats" style="width: 100%">
-    <!-- Второе изображение -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8" alt="Productive Time" style="width: 100%">
-</div>
+
+![Репозитории на разных языках](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default) ![Самый частый язык в коммитах](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default) ![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default) ![Продуктивное время](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
 
 
 
