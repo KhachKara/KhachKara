@@ -81,16 +81,10 @@
 ### GitHub Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
-
-
-![Репозитории на разных языках](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default) ![Самый частый язык в коммитах](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default) ![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default) ![Продуктивное время](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
+![Репозитории на разных языках](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default) 
+![Самый частый язык в коммитах](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default) 
+![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default) 
+![Продуктивное время](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
 
 
 
