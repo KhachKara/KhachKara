@@ -91,9 +91,9 @@
 
 <div style="display: flex">
     <!-- Первое изображение -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default" alt="Stats" style="width: 40%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default" alt="Stats" style="width: 50%">
     <!-- Второе изображение -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8" alt="Productive Time" style="width: 40%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8" alt="Productive Time" style="width: 50%">
 </div>
 
 
