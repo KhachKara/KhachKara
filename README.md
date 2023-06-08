@@ -89,6 +89,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
 
+<div style="display: flex;">
+    <!-- Первое изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default" alt="Stats" style="width: 50%;">
+    <!-- Второе изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8" alt="Productive Time" style="width: 50%;">
+</div>
+
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
