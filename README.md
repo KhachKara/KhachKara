@@ -82,6 +82,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
+
 
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
