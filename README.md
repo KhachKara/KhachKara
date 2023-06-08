@@ -96,6 +96,23 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8" alt="Productive Time" style="width: 50%;">
 </div>
 
+
+<!-- Верхняя строка -->
+<div style="display: flex">
+    <!-- Первое изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default" alt="Profile Details" style="width: 20%">
+    <!-- Второе изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default" alt="Repos per Language" style="width: 20%">
+    <!-- Третье изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default" alt="Most Commit Language" style="width: 20%">
+    <!-- Четвертое изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default" alt="Stats" style="width: 20%">
+    <!-- Пятое изображение -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8" alt="Productive Time" style="width: 20%">
+</div>
+
+
+
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
