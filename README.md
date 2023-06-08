@@ -77,16 +77,21 @@
     [khachkara@gmail.com]()
 - 🌍 I speak Russian, English, Armenian
 
+
 ### GitHub Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default), 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default),
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default, http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
+
 
 
 <!--
