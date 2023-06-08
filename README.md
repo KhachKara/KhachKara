@@ -75,6 +75,10 @@
     [khachatur2000@mail.ru](),
     [khachkara@gmail.com]()
 - 🌍 I speak Russian, English, Armenian
+
+### Statistics
+- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default)
+
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
