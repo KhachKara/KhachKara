@@ -1,7 +1,3 @@
-<div id="header" align="center">
-    <h3>Hi there, I'm Khachatur</h3>
-    <h1>I am a data scientist</h1>
-</div>
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,6 +15,12 @@
     <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
 </div>
+
+<div id="header" align="center">
+    <h3>Hi there, I'm Khachatur</h3>
+    <h1>I am a data scientist</h1>
+</div>
+
 
 <img src="https://i.imgur.com/oEdaCVO.jpeg" alt="Looking for a job"/>
 
