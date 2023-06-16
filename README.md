@@ -67,7 +67,7 @@
     [Kaggle](https://www.kaggle.com?target=_blank),
     [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
     [DataCamp](https://app.datacamp.com/profile/khachatur2000/target=_blank),
-    [Stepij](https://stepik.org/users/3456440/target=_blank),
+    [Stepik](https://stepik.org/users/3456440/target=_blank),
     [Sololearn](https://www.sololearn.com/profile/473527/target=_blank)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target="_blank")
 - 📄 Know about my experiences
