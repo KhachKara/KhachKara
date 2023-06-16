@@ -56,6 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" width="40" height="40"/>&nbsp;
+  <img srcset="https://img.icons8.com/?size=512&amp;id=Z6fn1115xBcZ&amp;format=png 2x, https://img.icons8.com/?size=512&amp;id=Z6fn1115xBcZ&amp;format=png 1x" src="https://img.icons8.com/?size=512&amp;id=Z6fn1115xBcZ&amp;format=png 2x" alt="Подвижность icon" width="256" height="256" style="width:256px;height:256px;">
 </div>
 
 ### About me
