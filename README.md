@@ -69,7 +69,8 @@
     [DataCamp](https://app.datacamp.com/profile/khachatur2000/?target=_blank),
     [Stepik](https://stepik.org/users/3456440/?target=_blank),
     [Sololearn](https://www.sololearn.com/profile/473527/?target=_blank),
-    [Sql academy](https://sql-academy.org/en/trainer?target=_blank)
+    [Sql Academy](https://sql-academy.org/en/trainer?target=_blank),
+    [Codeforces](https://codeforces.com/profile/khachkara2000)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target="_blank")
 - 📄 Know about my experiences
     
