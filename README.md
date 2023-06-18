@@ -75,7 +75,9 @@
 - 📄 Know about my experiences
 - 📕 Books I've read
     [Effective PYTHON](https://www.amazon.com/gp/product/0134853989),
-    [Effective Pandas by Matt Harrison](https://datatalks.club/books/20220131-effective-pandas.html)
+    [Effective Pandas by Matt Harrison](https://datatalks.club/books/20220131-effective-pandas.html),
+    [Статистика и котики](https://www.litres.ru/book/vladimir-savelev-10569666/statistika-i-kotiki-28731109/),
+    [MySQL по максимуму](https://www.piter.com/collection/bestsellery-oreilly/product/mysql-po-maksimumu-3-e-izdanie)
 - 📋 My CV's 
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1?target=_blank),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG?target=_blank)
