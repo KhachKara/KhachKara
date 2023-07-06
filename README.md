@@ -33,8 +33,9 @@
 
 ### Kaggle projects
 
-- [Titanic](https://www.kaggle.com/competitions/titanic/submissions),
+- [Titanic](https://www.kaggle.com/competitions/titanic/submissions)
 - [COVID-19](https://www.kaggle.com/khachkara/khach-covid-19/edit)
+- [Otto Group Product Classification Challenge](https://www.kaggle.com/code/khachkara/khach-otto)
 
 ### Languages and tools
 
