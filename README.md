@@ -33,7 +33,7 @@
 
 ### Kaggle projects
 
-- [Titanic](https://www.kaggle.com/code/khachkara/khach-titanic/edit/run/120402488)
+- [Titanic](https://www.kaggle.com/competitions/titanic/submissions)
 
 ### Languages and tools
 
