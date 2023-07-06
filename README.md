@@ -72,10 +72,24 @@
     [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
     [Kaggle](https://www.kaggle.com?target=_blank),
     [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
-    [DataCamp](https://app.datacamp.com/profile/khachatur2000/target=_blank)
+    [DataCamp](https://app.datacamp.com/profile/khachatur2000/?target=_blank),
+    [Stepik](https://stepik.org/users/3456440/?target=_blank),
+    [Sololearn](https://www.sololearn.com/profile/473527/?target=_blank),
+    [Sql Academy](https://sql-academy.org/en/trainer?target=_blank),
+    [Codeforces](https://codeforces.com/profile/khachkara2000)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target="_blank")
 - 📄 Know about my experiences
+<<<<<<< HEAD
 - 📋 My CV's
+=======
+- 📕 Books I've read
+    [Effective PYTHON](https://www.amazon.com/gp/product/0134853989),
+    [Effective Pandas by Matt Harrison](https://datatalks.club/books/20220131-effective-pandas.html),
+    [Статистика и котики](https://www.litres.ru/book/vladimir-savelev-10569666/statistika-i-kotiki-28731109/),
+    [MySQL по максимуму](https://www.piter.com/collection/bestsellery-oreilly/product/mysql-po-maksimumu-3-e-izdanie),
+    [Fluent Python: Clear, Concise, and Effective Programming](https://medium.com/@murattscheis/fluent-python-clear-concise-and-effective-programming-unlimited-acces-6f246c392e28)
+- 📋 My CV's 
+>>>>>>> a28b6b1c4a00ef60b9057a800c1a8b5f52e77218
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1?target=_blank),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG?target=_blank)
 - 📞📧 Reach me by
