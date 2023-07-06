@@ -1,3 +1,5 @@
+# About Me
+
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,8 +32,8 @@
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 - [Tinkoff Data Analytics in Industry 2023](https://github.com/KhachKara/Tink_Data_Analytics_in_Industry_2023?target=_blank)
 
-
 ### Kaggle projects
+
 - [Titanic](https://www.kaggle.com/code/khachkara/khach-titanic/edit/run/120402488)
 
 ### Languages and tools
@@ -88,10 +90,12 @@
     [Статистика и котики](https://www.litres.ru/book/vladimir-savelev-10569666/statistika-i-kotiki-28731109/),
     [MySQL по максимуму](https://www.piter.com/collection/bestsellery-oreilly/product/mysql-po-maksimumu-3-e-izdanie),
     [Fluent Python: Clear, Concise, and Effective Programming](https://medium.com/@murattscheis/fluent-python-clear-concise-and-effective-programming-unlimited-acces-6f246c392e28)
-- 📋 My CV's 
+- 📋 My CV's
+
 >>>>>>> a28b6b1c4a00ef60b9057a800c1a8b5f52e77218
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1?target=_blank),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG?target=_blank)
+
 - 📞📧 Reach me by
     [+79773895899](),
     [+79265692452](),
