@@ -21,16 +21,21 @@
     <h1>I am a data scientist</h1>
 </div>
 
-
 <img src="https://i.imgur.com/oEdaCVO.jpeg" alt="Looking for a job"/>
 
 ### My projects
+
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya?target=_blank)
 - [Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 - [Tinkoff Data Analytics in Industry 2023](https://github.com/KhachKara/Tink_Data_Analytics_in_Industry_2023?target=_blank)
 
+
+### Kaggle projects
+- [Titanic](https://www.kaggle.com/code/khachkara/khach-titanic/edit/run/120402488)
+
 ### Languages and tools
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
@@ -59,36 +64,35 @@
 </div>
 
 ### About me
+
 - 🌱 I’m currently learning and improve my skills
     [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян?target=_blank),
-    [LeetCode](https://github.com/KhachKara/LeetCode/tree/master/my-folder/problems?target=_blank), 
+    [LeetCode](https://github.com/KhachKara/LeetCode/tree/master/my-folder/problems?target=_blank),
     [HackerRank](https://www.hackerrank.com/khachkara?target=_blank),
     [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
     [Kaggle](https://www.kaggle.com?target=_blank),
     [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
     [DataCamp](https://app.datacamp.com/profile/khachatur2000/target=_blank)
 - 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target="_blank")
-- 📄 Know about my experiences 
-- 📋 My CV's 
+- 📄 Know about my experiences
+- 📋 My CV's
     [English](https://cloud.mail.ru/public/a1dW/Yr1YwyjM1?target=_blank),
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG?target=_blank)
-- 📞📧 Reach me by 
+- 📞📧 Reach me by
     [+79773895899](),
     [+79265692452](),
     [khachatur2000@mail.ru](),
     [khachkara@gmail.com]()
 - 🌍 I speak Russian, English, Armenian
 
-
 ### GitHub Statistics
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default)
 
-![Репозитории на разных языках](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default) 
-![Самый частый язык в коммитах](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default) 
-![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default) 
+![Репозитории на разных языках](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default)
+![Самый частый язык в коммитах](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default)
+![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default)
 ![Продуктивное время](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khachkara&theme=default&utcOffset=8)
-
-
 
 <!--
 **KhachKara/KhachKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
