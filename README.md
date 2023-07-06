@@ -33,7 +33,8 @@
 
 ### Kaggle projects
 
-- [Titanic](https://www.kaggle.com/competitions/titanic/submissions)
+- [Titanic](https://www.kaggle.com/competitions/titanic/submissions),
+- [COVID-19](https://www.kaggle.com/khachkara/khach-covid-19/edit)
 
 ### Languages and tools
 
