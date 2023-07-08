@@ -92,7 +92,7 @@
     [MySQL по максимуму](https://www.piter.com/collection/bestsellery-oreilly/product/mysql-po-maksimumu-3-e-izdanie),
     [Fluent Python: Clear, Concise, and Effective Programming](https://medium.com/@murattscheis/fluent-python-clear-concise-and-effective-programming-unlimited-acces-6f246c392e28)
 
-- 📞📧 Reach me by
+# 📞📧 Reach me by
 
 *    [whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
 *    [phone: +79265692452](tel:+79265692452),
