@@ -93,11 +93,12 @@
     [Fluent Python: Clear, Concise, and Effective Programming](https://medium.com/@murattscheis/fluent-python-clear-concise-and-effective-programming-unlimited-acces-6f246c392e28)
 
 - 📞📧 Reach me by
-    [whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
-    [phone: +79265692452](tel: +79265692452),
-    [e-mail: khachatur2000@mail.ru](mailto:khachatur2000@mail.ru),
-    [telegram - @khachkara](https://t.me/khachkara),
-    [<a href="mailto:mail@htmlacademy.ru">Напишите нам</a>](<a href="mailto:mail@htmlacademy.ru">Напишите нам</a>)
+
+*    [whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
+*    [phone: +79265692452](tel:+79265692452),
+*    [e-mail: khachatur2000@mail.ru](mailto:khachatur2000@mail.ru),
+*    [telegram - @khachkara](https://t.me/khachkara)
+
 - 🌍 I speak Russian, English, Armenian
 
 ### GitHub Statistics
