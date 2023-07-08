@@ -95,16 +95,14 @@
 
 ## 📞📧 Reach me by
 
-*    [whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
-*    [phone: +79265692452](tel:+79265692452),
-*    [e-mail: khachatur2000@mail.ru](mailto:khachatur2000@mail.ru),
-*    [telegram - @khachkara](https://t.me/khachkara)
-
+- [tel/whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
+- [tel/telegram: +79265692452](tel:+79265692452),
+- [e-mail: khachatur2000@mail.ru](mailto:khachatur2000@mail.ru),
+- [telegram - @khachkara](https://t.me/khachkara)
 
 ## GitHub Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default)
-
 ![Репозитории на разных языках](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khachkara&theme=default)
 ![Самый частый язык в коммитах](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khachkara&theme=default)
 ![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khachkara&theme=default)
