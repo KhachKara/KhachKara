@@ -31,7 +31,7 @@
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 - [Tinkoff Data Analytics in Industry 2023](https://github.com/KhachKara/Tink_Data_Analytics_in_Industry_2023?target=_blank)
 
-## Kaggle projects
+## Kaggle projects (training)
 
 - [Titanic](https://www.kaggle.com/competitions/titanic/submissions)
 - [COVID-19](https://www.kaggle.com/khachkara/khach-covid-19/edit)
