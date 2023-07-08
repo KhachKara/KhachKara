@@ -24,20 +24,20 @@
 
 <img src="https://i.imgur.com/oEdaCVO.jpeg" alt="Looking for a job"/>
 
-### My projects
+## My projects
 
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya?target=_blank)
 - [Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
 - [Tinkoff Data Analytics in Industry 2023](https://github.com/KhachKara/Tink_Data_Analytics_in_Industry_2023?target=_blank)
 
-### Kaggle projects
+## Kaggle projects
 
 - [Titanic](https://www.kaggle.com/competitions/titanic/submissions)
 - [COVID-19](https://www.kaggle.com/khachkara/khach-covid-19/edit)
 - [Otto Group Product Classification Challenge](https://www.kaggle.com/code/khachkara/khach-otto)
 
-### Languages and tools
+## Languages and tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
@@ -66,7 +66,7 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" width="40" height="40"/>&nbsp;
 </div>
 
-# <center> About me
+## <center> About me
 
 - 🌱 I’m currently learning and improve my skills
     [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян?target=_blank),
@@ -91,17 +91,17 @@
     [Статистика и котики](https://www.litres.ru/book/vladimir-savelev-10569666/statistika-i-kotiki-28731109/),
     [MySQL по максимуму](https://www.piter.com/collection/bestsellery-oreilly/product/mysql-po-maksimumu-3-e-izdanie),
     [Fluent Python: Clear, Concise, and Effective Programming](https://medium.com/@murattscheis/fluent-python-clear-concise-and-effective-programming-unlimited-acces-6f246c392e28)
+  - 🌍 I speak Russian, English, Armenian
 
-# 📞📧 Reach me by
+## 📞📧 Reach me by
 
 *    [whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
 *    [phone: +79265692452](tel:+79265692452),
 *    [e-mail: khachatur2000@mail.ru](mailto:khachatur2000@mail.ru),
 *    [telegram - @khachkara](https://t.me/khachkara)
 
-- 🌍 I speak Russian, English, Armenian
 
-### GitHub Statistics
+## GitHub Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khachkara&theme=default)
 
