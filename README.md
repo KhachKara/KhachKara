@@ -95,8 +95,8 @@
 
 ## 📞📧 Reach me by
 
-- [tel/whatsapp: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
-- [tel/telegram: +79265692452](tel:+79265692452),
+- [tel/telegram: +79773895899](https://web.whatsapp.com/send?phone=+79773895899),
+- [tel/whatsapp: +79265692452](tel:+79265692452),
 - [e-mail: khachatur2000@mail.ru](mailto:khachatur2000@mail.ru),
 - [telegram - @khachkara](https://t.me/khachkara)
 
