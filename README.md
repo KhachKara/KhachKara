@@ -66,7 +66,7 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" width="40" height="40"/>&nbsp;
 </div>
 
-## <center> About me
+## About me
 
 - 🌱 I’m currently learning and improve my skills
     [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян),
