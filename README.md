@@ -69,18 +69,18 @@
 ## <center> About me
 
 - 🌱 I’m currently learning and improve my skills
-    [Stackoverflow](<a href="https://stackoverflow.com/users/12917313/Хачатур-Карапетян?target=_blank"> Stackoverflow </a>),
-    [LeetCode](https://github.com/KhachKara/LeetCode/tree/master/my-folder/problems?target=_blank),
-    [HackerRank](https://www.hackerrank.com/khachkara?target=_blank),
-    [Rosalind](https://rosalind.info/users/Khachkara/?target=_blank),
-    [Kaggle](https://www.kaggle.com?target=_blank),
-    [Habr](https://habr.com/ru/users/Khachkara/?target=_blank),
-    [DataCamp](https://app.datacamp.com/profile/khachatur2000/?target=_blank),
-    [Stepik](https://stepik.org/users/3456440/?target=_blank),
-    [Sololearn](https://www.sololearn.com/profile/473527/?target=_blank),
-    [Sql Academy](https://sql-academy.org/en/trainer?target=_blank),
+    [Stackoverflow](https://stackoverflow.com/users/12917313/Хачатур-Карапетян),
+    [LeetCode](https://github.com/KhachKara/LeetCode/tree/master/my-folder/problems),
+    [HackerRank](https://www.hackerrank.com/khachkara),
+    [Rosalind](https://rosalind.info/users/Khachkara),
+    [Kaggle](https://www.kaggle.com/khachkara),
+    [Habr](https://habr.com/ru/users/Khachkara),
+    [DataCamp](https://app.datacamp.com/profile/khachatur2000),
+    [Stepik](https://stepik.org/users/3456440),
+    [Sololearn](https://www.sololearn.com/profile/473527),
+    [Sql Academy](https://sql-academy.org/en/trainer),
     [Codeforces](https://codeforces.com/profile/khachkara2000)
-- 📝 I regularly update my own web-site [Web](https://khachkara.github.io?target="_blank")
+- 📝 I regularly update my own web-site [My CV Page](https://khachkara.github.io")
 - 📄 Know about my experiences
 - 📋 My CV's
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG),
