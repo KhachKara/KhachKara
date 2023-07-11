@@ -80,7 +80,7 @@
     [Sololearn](https://www.sololearn.com/profile/473527),
     [Sql Academy](https://sql-academy.org/en/trainer),
     [Codeforces](https://codeforces.com/profile/khachkara2000)
-- 📝 I regularly update my own web-site [My CV Page](https://khachkara.github.io")
+- 📝 I regularly update my own web-site [My CV Page](https://khachkara.github.io)
 - 📄 Know about my experiences
 - 📋 My CV's
     [Russian](https://cloud.mail.ru/public/XcvN/GuPbWsaDG),
