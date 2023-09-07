@@ -19,7 +19,7 @@
 
 <div id="header" align="center">
     <h3>Hi there, I'm Khachatur</h3>
-    <h1>I am a data engineer and data analyst</h1>
+    <h1>I am a Python backend developer, data engineer and data analyst</h1>
 </div>
 
 <img src="https://i.imgur.com/oEdaCVO.jpeg" alt="Looking for a job"/>
