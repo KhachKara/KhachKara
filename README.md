@@ -1,6 +1,6 @@
 
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/khachatur-karapetian-71a2aba2/">
+    <a href="https://www.linkedin.com/in/khachatur-karapetian">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
