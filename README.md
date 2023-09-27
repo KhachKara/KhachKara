@@ -5,7 +5,8 @@
   </a>
   
   <a href="https://vk.com/id39817202">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"/>
+    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white"
+ alt="Vkontakte"/>
   </a>
   
   <a href="https://t.me/khachkara">
@@ -41,6 +42,7 @@
 ## Languages and tools
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;
