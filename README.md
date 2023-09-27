@@ -9,7 +9,8 @@
   </a>
   
   <a href="https://t.me/khachkara">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"
+/>
   </a>
 
   <a href="https://web.whatsapp.com//khachkara">
@@ -25,7 +26,7 @@
 <img src="https://i.imgur.com/oEdaCVO.jpeg" alt="Looking for a job"/>
 
 ## My projects
-- [Codreview_jobs] (https://github.com/KhachKara/Codreview_jobs)
+- [Codreview_jobs](https://github.com/KhachKara/Codreview_jobs)
 - [TGU DS Project](https://github.com/KhachKara/TGU_kursovaya?target=_blank)
 - [Junior_Vacancies](https://github.com/KhachKara/DS_Junior_Vacancies/tree/master?target=_blank)
 - [Tinkoff Data Analytics for Beginners](https://github.com/KhachKara/Tink_Data_Analyst_For_Beginners?target=_blank)
